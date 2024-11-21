@@ -1,4 +1,4 @@
-# seq2seq-for-microbial-growth
+# Using early measurements to predict bacterial growth with sequence-to-sequence models
 
 This repository contains the implementation of experiments described in the research paper **[Insert Paper Title]**. The experiments are implemented using Jupyter Notebooks for ease of understanding and reproducibility.
 
